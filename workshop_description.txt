@@ -1,0 +1,7 @@
+Contact email: dota2spintd@gmail.com
+
+SPIN TD is a 4 player Tower defense map, where you build towers by selecting preplaced markers on the map to build your towers.
+
+You can also spin the slot machine in the center of the map by using your hero ability.
+
+There are currently 40 waves and 7 bosses.

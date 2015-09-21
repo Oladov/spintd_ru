@@ -1,0 +1,66 @@
+"addon"
+{
+"Unassigned"                      "Ej tilldelat Lag"
+  "Spectator"                       "Åskådare Lag"
+  "Neutrals"                        "Neutralt Lag"
+  "NoTeam"                          "Inget Lag"
+
+  "DOTA_GoodGuys"                   "Försvarare"
+
+  "addonname"                   "SPIN TD"
+
+  //Loadingscreen section
+  "loading_screen_tutorial" "Hallå och välkommen till spin td, för att bygga torn välj de färgade platformarna nära din hjälte och använd deras förmågor för att bygga. Om du vill spela på den enarmad banditen använd din hjältes förmågor."
+  //
+
+  //scoreboard section
+  "legend_kills"  "dödade"
+  "legend_towers" "torn"
+  "legend_net"  "kaptial"
+  "legend_spin" "spin $"
+  //
+
+  //game settings section
+  "settings_host_diff"  "Värd välj svårighetsgrad"
+
+  //NOTE: leading and trailing spaces are required otherwise the normal text gets replaced for some reason :/
+  "settings_diff_normal"  " NORMAL "
+  "settings_diff_hard"  " SVÅR "
+
+  "settings_host_gamemode"  "Värd välj speläge"
+
+  //NOTE: leading and trailing spaces are required otherwise the normal text gets replaced for some reason :/
+  "settings_gamemode_normal"  " NORMAL "
+  "settings_gamemode_SCRAMBLE"  " BLANDAT "
+
+  //
+
+  "startTutorial" "För att bygga torn välj de färgade platformarna nära din hjälte."
+  "dcTryingToBuild" "Eftersom du kopplade ifrån så måste du vänta tills nästa tur för att bygga nya torn!"
+  "wave_notifier" "Våg:"
+
+  //boss messages section
+
+  "boss_fish_hex" "MÖRT"
+  "boss_spamm_messer" "I will hit you were it hurts most!"
+  "boss_pudge"  "Fresh meat"
+  "boss_high_priest"  "You don't need attackspeed"
+  "boss_lycan"  "A huff and a puff"
+  "boss_abaddon"  "Don't pick up cursed swords kids."
+  "boss_faceless_void"  "STANNA HAMMARTID"
+
+  //slot machine section
+
+  "slot_mult_symbol" "X"
+  "no_luck" "INGEN TUR"
+  "spins" "drar i armen!"
+
+  "slot_frog_msg"           "SMÅ SLANT"
+  "slot_lockjaw_msg"        "VINST"
+  "slot_trapjaw_msg"        "BINGO"
+  "slot_mega_greevil_msg"   "VÄLFÄRD"
+  "slot_sheep_msg"          "DUBBLA"
+  "slot_present_msg"        "MAGISKT FÖREMÅL"
+  "slot_treasure_chest_msg" "MAGISKT FÖREMÅL"
+  "slot_gold_greevil_msg"   "JACKPOT"
+}
