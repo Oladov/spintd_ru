@@ -60,7 +60,7 @@
 	
 	"slot_mult_symbol"					"X"
 	"no_luck"							"Не повезло"
-	"spins"								"вращайте барабан!"
+	"spins"								"вращает барабан!"
 	
 	"slot_frog_msg"						"МЕЛОЧУШКА"
 	"slot_lockjaw_msg"					"ПРИБЫЛЬ"
