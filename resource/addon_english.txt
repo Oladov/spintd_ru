@@ -3,283 +3,283 @@
 	"Language"		"English"
 	"Tokens"
 	{
-		"game_mode_15"				"SPIN TD"
-		"addon_game_name"			"SPIN TD"
-
-        "QuestLives"  "Lives left: %quest_current_value%"
-        "QuestKill" "Wave %quest_round% kills: (%quest_current_value%/%quest_target_value%)"
-
-        "tower_basic"       "WINDRANGER"
-        "tower_templar"       "TEMPLAR"
-        "npc_dota_hero_beastmaster" "TOWERMASTER"
-        "npc_dota_tower_location" "BUILD TOWER"
-
-        "DOTA_Tooltip_Ability_hard_buff"  "Hard Buff"
-        "DOTA_Tooltip_Ability_hard_buff_Description"  "increases health by 7&#37;"
-        "DOTA_Tooltip_Ability_hard_buff_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_hard_buff_Lore" "AERTZ"
-        "DOTA_Tooltip_hard_buff_buff" "7% health increase"
-
-        "DOTA_Tooltip_Ability_spamm_boss_passive"  "Stuns towers"
-        "DOTA_Tooltip_Ability_spamm_boss_passive_Description"  "This boss will stun the tower type you have the most of."
-        "DOTA_Tooltip_Ability_spamm_boss_passive_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_spamm_boss_passive_Lore" "AERTZ"
-
-        "DOTA_Tooltip_Ability_return_to_start_page"  "Return"
-        "DOTA_Tooltip_Ability_return_to_start_page_Description"  "Return to the start build page."
-        "DOTA_Tooltip_Ability_return_to_start_page_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_return_to_start_page_Lore" "AERTZ"
-
-        "DOTA_Tooltip_Ability_open_page_one"  "Open page one"
-        "DOTA_Tooltip_Ability_open_page_one_Description"  "Opens page one of the build pages."
-        "DOTA_Tooltip_Ability_open_page_one_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_open_page_one_Lore" "AERTZ"
-
-        "DOTA_Tooltip_Ability_open_page_two"  "Open page two"
-        "DOTA_Tooltip_Ability_open_page_two_Description"  "Opens page two of the build pages."
-        "DOTA_Tooltip_Ability_open_page_two_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_open_page_two_Lore" "AERTZ"
-
-        "DOTA_Tooltip_Ability_open_page_three"  "Open page three"
-        "DOTA_Tooltip_Ability_open_page_three_Description"  "Opens page three of the build pages."
-        "DOTA_Tooltip_Ability_open_page_three_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_open_page_three_Lore" "AERTZ"
-
-        "DOTA_Tooltip_Ability_open_page_four"  "Open page four"
-        "DOTA_Tooltip_Ability_open_page_four_Description"  "Opens page four of the build pages."
-        "DOTA_Tooltip_Ability_open_page_four_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_open_page_four_Lore" "AERTZ"
-
-        "DOTA_Tooltip_Ability_sell_tower"  "Sell Tower"
-        "DOTA_Tooltip_Ability_sell_tower_Description"  "Sell a tower for 50&#37; of it's original plus the cost of upgrades."
-        "DOTA_Tooltip_Ability_sell_tower_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_sell_tower_Lore" "AERTZ"
-
-
-        "DOTA_Tooltip_Ability_slot_spin"  "Spin"
-        "DOTA_Tooltip_Ability_slot_spin_Description"  "Try out your luck on the slot machine in the center of the map."
-        "DOTA_Tooltip_Ability_slot_spin_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_slot_spin_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_slot_spin_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_slot_spin2"  "Spin"
-        "DOTA_Tooltip_Ability_slot_spin2_Description"  "Try out your luck on the slot machine in the center of the map."
-        "DOTA_Tooltip_Ability_slot_spin2_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_slot_spin2_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_slot_spin2_goldcost" "Gold cost:"
-
-        //TOWERS BELOW
-
-    	//PAGE 1
-
-        "DOTA_Tooltip_Ability_build_tower_basic"  "Build Windranger tower"
-        "DOTA_Tooltip_Ability_build_tower_basic_Description"  "DMG: <font color=\"#ff0000\">Weak</font><br>AttackSpeed: <font color=\"#00ff00\">Good</font><br>Range: 700<br>Ability: None"
-        "DOTA_Tooltip_Ability_build_tower_basic_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_basic_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_basic_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_windrunner" "Upgrade Windranger tower"
-        "DOTA_Tooltip_Ability_upgrade_windrunner_Description"  "Adds the fervor ability, also increases damage."
-        "DOTA_Tooltip_Ability_upgrade_windrunner_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_windrunner_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_windrunner_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_build_tower_templar"  "Build Templar tower"
-        "DOTA_Tooltip_Ability_build_tower_templar_Description"  "DMG: <font color=\"#ffff00\">Okay</font><br>AttackSpeed: <font color=\"#00ff00\">Good</font><br>Range: 700<br>Ability: Psi blades"
-        "DOTA_Tooltip_Ability_build_tower_templar_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_templar_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_templar_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_templar" "Upgrade Templar tower"
-        "DOTA_Tooltip_Ability_upgrade_templar_Description"  "Adds the refraction ability, also increases damage."
-        "DOTA_Tooltip_Ability_upgrade_templar_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_templar_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_templar_goldcost" "Gold cost:"
-
-    	"DOTA_Tooltip_Ability_build_tower_spirit_breaker"  "Build Spirit Breaker tower"
-        "DOTA_Tooltip_Ability_build_tower_spirit_breaker_Description"  "DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 500<br>Ability: Greater Bash"
-        "DOTA_Tooltip_Ability_build_tower_spirit_breaker_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_spirit_breaker_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_spirit_breaker_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_spirit_breaker" "Upgrade Spirit Breaker tower"
-        "DOTA_Tooltip_Ability_upgrade_spirit_breaker_Description"  "Adds the Amplify Damage ability(-5 armor), also increases damage."
-        "DOTA_Tooltip_Ability_upgrade_spirit_breaker_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_spirit_breaker_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_spirit_breaker_goldcost" "Gold cost:"
-
-    	"DOTA_Tooltip_Ability_build_tower_phantom_assassin"  "Build Phantom Assassin tower"
-        "DOTA_Tooltip_Ability_build_tower_phantom_assassin_Description"  "DMG: <font color=\"#00ff00\">Random</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 500<br>Ability: Coup de grace"
-        "DOTA_Tooltip_Ability_build_tower_phantom_assassin_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_phantom_assassin_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_phantom_assassin_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_phantom_assassin" "Upgrade Phantom Assassin tower"
-        "DOTA_Tooltip_Ability_upgrade_phantom_assassin_Description"  "Leveles up Coup de grace ability to level 3, also increases damage."
-        "DOTA_Tooltip_Ability_upgrade_phantom_assassin_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_phantom_assassin_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_phantom_assassin_goldcost" "Gold cost:"
-
-    	"DOTA_Tooltip_Ability_build_tower_venomancer"  "Build Venomancer tower"
-        "DOTA_Tooltip_Ability_build_tower_venomancer_Description"  "DMG: <font color=\"#ffff00\">Okay</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 800<br>Ability: Poison Sting"
-        "DOTA_Tooltip_Ability_build_tower_venomancer_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_venomancer_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_venomancer_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_venomancer" "Upgrade Venomancer tower"
-        "DOTA_Tooltip_Ability_upgrade_venomancer_Description"  "Increases slow by 20%, also more damage"
-        "DOTA_Tooltip_Ability_upgrade_venomancer_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_venomancer_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_venomancer_goldcost" "Gold cost:"
-
-    	//PAGE 2
-
-        "DOTA_Tooltip_Ability_build_tower_shadow_fiend"  "Build Shadow Fiend tower"
-        "DOTA_Tooltip_Ability_build_tower_shadow_fiend_Description"  "DMG: <font color=\"#00ff00\">Bad -> Good</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 900<br>Ability: Nevermore Necromastery"
-        "DOTA_Tooltip_Ability_build_tower_shadow_fiend_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_shadow_fiend_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_shadow_fiend_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_shadow_fiend" "Upgrade Shadow Fiend tower"
-        "DOTA_Tooltip_Ability_upgrade_shadow_fiend_Description"  "Increases the maximum amount of souls to 85"
-        "DOTA_Tooltip_Ability_upgrade_shadow_fiend_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_shadow_fiend_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_shadow_fiend_goldcost" "Gold cost:"
-
-    	"DOTA_Tooltip_Ability_build_tower_weaver"  "Build Weaver tower"
-        "DOTA_Tooltip_Ability_build_tower_weaver_Description"  "DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#00ff00\">Good</font><br>Range: 800<br>Ability: Geminate Attack"
-        "DOTA_Tooltip_Ability_build_tower_weaver_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_weaver_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_weaver_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_weaver" "Upgrade Weaver tower"
-        "DOTA_Tooltip_Ability_upgrade_weaver_Description"  "Adds 600 damage."
-        "DOTA_Tooltip_Ability_upgrade_weaver_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_weaver_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_weaver_goldcost" "Gold cost:"
-
-    	"DOTA_Tooltip_Ability_build_tower_techies"  "Build Techies tower"
-        "DOTA_Tooltip_Ability_build_tower_techies_Description"  "DMG: <font color=\"#ff0000\">Bad</font><br>AttackSpeed: <font color=\"#ff0000\">Bad</font><br>Range: 800<br>Ability: Land Mine"
-        "DOTA_Tooltip_Ability_build_tower_techies_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_techies_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_techies_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_techies" "Upgrade Techies tower"
-        "DOTA_Tooltip_Ability_upgrade_techies_Description"  "Adds 1000 damage to the land mine."
-        "DOTA_Tooltip_Ability_upgrade_techies_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_techies_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_techies_goldcost" "Gold cost:"
-
-    	"DOTA_Tooltip_Ability_build_tower_witch_doctor"  "Build Witch Doctor tower"
-        "DOTA_Tooltip_Ability_build_tower_witch_doctor_Description"  "DMG: <font color=\"#ff0000\">Bad</font><br>AttackSpeed: <font color=\"#00ff00\">Okay</font><br>Range: 600<br>Ability: Paralyzing Cask"
-        "DOTA_Tooltip_Ability_build_tower_witch_doctor_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_witch_doctor_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_witch_doctor_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_witch_doctor" "Upgrade Witch Doctor tower"
-        "DOTA_Tooltip_Ability_upgrade_witch_doctor_Description"  "Adds the maledict ability."
-        "DOTA_Tooltip_Ability_upgrade_witch_doctor_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_witch_doctor_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_witch_doctor_goldcost" "Gold cost:"
-
-    	"DOTA_Tooltip_Ability_build_tower_sven"  "Build Sven tower"
-        "DOTA_Tooltip_Ability_build_tower_sven_Description"  "DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#00ff00\">Okay</font><br>Range: 500<br>Ability: Great Cleave"
-        "DOTA_Tooltip_Ability_build_tower_sven_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_sven_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_sven_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_sven" "Upgrade Sven tower"
-        "DOTA_Tooltip_Ability_upgrade_sven_Description"  "Adds the Chaos Strike crit ability."
-        "DOTA_Tooltip_Ability_upgrade_sven_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_sven_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_sven_goldcost" "Gold cost:"
-
-    	//PAGE 3
-        "DOTA_Tooltip_Ability_build_tower_gyro"  "Build Gyrocoopter tower"
-        "DOTA_Tooltip_Ability_build_tower_gyro_Description"  "DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#ff0000\">Bad</font><br>Range: 800<br>Ability: Flak Cannon"
-        "DOTA_Tooltip_Ability_build_tower_gyro_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_gyro_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_gyro_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_gyro" "Upgrade Gyro tower"
-        "DOTA_Tooltip_Ability_upgrade_gyro_Description"  "Upgrades the Flak cannon ability to lvl 4, also adds 500 damage."
-        "DOTA_Tooltip_Ability_upgrade_gyro_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_gyro_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_gyro_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_build_tower_ursa"  "Build Ursa tower"
-        "DOTA_Tooltip_Ability_build_tower_ursa_Description"  "DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#00ff00\">Great</font><br>Range: 500<br>Ability: Fury swipes"
-        "DOTA_Tooltip_Ability_build_tower_ursa_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_ursa_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_ursa_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_ursa" "Upgrade Ursa tower"
-        "DOTA_Tooltip_Ability_upgrade_ursa_Description"  "Adds the overpower ability."
-        "DOTA_Tooltip_Ability_upgrade_ursa_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_ursa_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_ursa_goldcost" "Gold cost:"
-
-    	"DOTA_Tooltip_Ability_build_tower_crystal_maiden"  "Build Crystal Maiden tower"
-        "DOTA_Tooltip_Ability_build_tower_crystal_maiden_Description"  "DMG: <font color=\"#ff0000\">Bad</font><br>AttackSpeed: <font color=\"#ff0000\">Bad</font><br>Range: 700<br>Ability: Crystal Nova"
-        "DOTA_Tooltip_Ability_build_tower_crystal_maiden_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_crystal_maiden_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_crystal_maiden_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_crystal_maiden" "Upgrade Crystal Maiden tower"
-        "DOTA_Tooltip_Ability_upgrade_crystal_maiden_Description"  "Adds the degen aura ability."
-        "DOTA_Tooltip_Ability_upgrade_crystal_maiden_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_crystal_maiden_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_crystal_maiden_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_build_tower_sniper"  "Build Sniper tower"
-        "DOTA_Tooltip_Ability_build_tower_sniper_Description"  "DMG: <font color=\"#00ff00\">Great</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 1700<br>Ability: None"
-        "DOTA_Tooltip_Ability_build_tower_sniper_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_sniper_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_sniper_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_sniper" "Upgrade Sniper tower"
-        "DOTA_Tooltip_Ability_upgrade_sniper_Description"  "Adds impetus ammo ability."
-        "DOTA_Tooltip_Ability_upgrade_sniper_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_sniper_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_sniper_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_build_tower_luna"  "Build Luna tower"
-        "DOTA_Tooltip_Ability_build_tower_luna_Description"  "DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 600<br>Ability: Moon glaives"
-        "DOTA_Tooltip_Ability_build_tower_luna_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_luna_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_luna_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_luna" "Upgrade Luna tower"
-        "DOTA_Tooltip_Ability_upgrade_luna_Description"  "Upgrades the Moon glaives ability to lvl 4, also adds 1000 damage."
-        "DOTA_Tooltip_Ability_upgrade_luna_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_luna_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_luna_goldcost" "Gold cost:"
-
-        //PAGE 4
-        "DOTA_Tooltip_Ability_build_tower_dragon_knight"  "Build Dragon Knight tower"
-        "DOTA_Tooltip_Ability_build_tower_dragon_knight_Description"  "DMG: <font color=\"#00ff00\">Great</font><br>AttackSpeed: <font color=\"#00ff00\">Okay</font><br>Range: 700<br>Ability: Elder Dragon Form"
-        "DOTA_Tooltip_Ability_build_tower_dragon_knight_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_dragon_knight_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_dragon_knight_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_dragon_knight" "Upgrade Dragon Knight tower"
-        "DOTA_Tooltip_Ability_upgrade_dragon_knight_Description"  "Upgrades the Elder Dragon Form ability to lvl 3, also adds 1000 damage."
-        "DOTA_Tooltip_Ability_upgrade_dragon_knight_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_dragon_knight_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_dragon_knight_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_build_tower_zeus"  "Build Zeus tower"
-        "DOTA_Tooltip_Ability_build_tower_zeus_Description"  "Ability: Arc lightning<br>Ability: Static Field"
-        "DOTA_Tooltip_Ability_build_tower_zeus_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_build_tower_zeus_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_build_tower_zeus_goldcost" "Gold cost:"
-
-        "DOTA_Tooltip_Ability_upgrade_zeus" "Upgrade Zeus tower"
-        "DOTA_Tooltip_Ability_upgrade_zeus_Description"  "Adds the lightning bolt ability."
-        "DOTA_Tooltip_Ability_upgrade_zeus_Note0" "This shows when hovering with Alt pressed"
-        "DOTA_Tooltip_Ability_upgrade_zeus_Lore" "AERTZ"
-        "DOTA_Tooltip_Ability_upgrade_zeus_goldcost" "Gold cost:"
-
-
+		"game_mode_15"					"SPIN TD"
+		"addon_game_name"				"SPIN TD"
+		
+		"QuestLives"					"Lives left: %quest_current_value%"
+		"QuestKill"						"Wave %quest_round% kills: (%quest_current_value%/%quest_target_value%)"
+		
+		"tower_basic"					"WINDRANGER"
+		"tower_templar"					"TEMPLAR"
+		"npc_dota_hero_beastmaster"		"TOWERMASTER"
+		"npc_dota_tower_location"		"BUILD TOWER"
+		
+		"DOTA_Tooltip_Ability_hard_buff"								"Hard Buff"
+		"DOTA_Tooltip_Ability_hard_buff_Description"					"increases health by 7&#37;"
+		"DOTA_Tooltip_Ability_hard_buff_Note0"							"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_hard_buff_Lore"							"AERTZ"
+		"DOTA_Tooltip_hard_buff_buff"									"7% health increase"
+		
+		"DOTA_Tooltip_Ability_spamm_boss_passive"						"Stuns towers"
+		"DOTA_Tooltip_Ability_spamm_boss_passive_Description"			"This boss will stun the tower type you have the most of."
+		"DOTA_Tooltip_Ability_spamm_boss_passive_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_spamm_boss_passive_Lore"					"AERTZ"
+		
+		"DOTA_Tooltip_Ability_return_to_start_page"						"Return"
+		"DOTA_Tooltip_Ability_return_to_start_page_Description"			"Return to the start build page."
+		"DOTA_Tooltip_Ability_return_to_start_page_Note0"				"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_return_to_start_page_Lore"				"AERTZ"
+		
+		"DOTA_Tooltip_Ability_open_page_one"							"Open page one"
+		"DOTA_Tooltip_Ability_open_page_one_Description"				"Opens page one of the build pages."
+		"DOTA_Tooltip_Ability_open_page_one_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_open_page_one_Lore"						"AERTZ"
+		
+		"DOTA_Tooltip_Ability_open_page_two"							"Open page two"
+		"DOTA_Tooltip_Ability_open_page_two_Description"				"Opens page two of the build pages."
+		"DOTA_Tooltip_Ability_open_page_two_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_open_page_two_Lore"						"AERTZ"
+		
+		"DOTA_Tooltip_Ability_open_page_three"							"Open page three"
+		"DOTA_Tooltip_Ability_open_page_three_Description"				"Opens page three of the build pages."
+		"DOTA_Tooltip_Ability_open_page_three_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_open_page_three_Lore"						"AERTZ"
+		
+		"DOTA_Tooltip_Ability_open_page_four"							"Open page four"
+		"DOTA_Tooltip_Ability_open_page_four_Description"				"Opens page four of the build pages."
+		"DOTA_Tooltip_Ability_open_page_four_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_open_page_four_Lore"						"AERTZ"
+		
+		"DOTA_Tooltip_Ability_sell_tower"								"Sell Tower"
+		"DOTA_Tooltip_Ability_sell_tower_Description"					"Sell a tower for 50&#37; of it's original plus the cost of upgrades."
+		"DOTA_Tooltip_Ability_sell_tower_Note0"							"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_sell_tower_Lore"							"AERTZ"
+		
+		
+		"DOTA_Tooltip_Ability_slot_spin"								"Spin"
+		"DOTA_Tooltip_Ability_slot_spin_Description"					"Try out your luck on the slot machine in the center of the map."
+		"DOTA_Tooltip_Ability_slot_spin_Note0"							"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_slot_spin_Lore"							"AERTZ"
+		"DOTA_Tooltip_Ability_slot_spin_goldcost"						"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_slot_spin2"								"Spin"
+		"DOTA_Tooltip_Ability_slot_spin2_Description"					"Try out your luck on the slot machine in the center of the map."
+		"DOTA_Tooltip_Ability_slot_spin2_Note0"							"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_slot_spin2_Lore"							"AERTZ"
+		"DOTA_Tooltip_Ability_slot_spin2_goldcost"						"Gold cost:"
+		
+		//TOWERS BELOW
+		
+		//PAGE 1
+		
+		"DOTA_Tooltip_Ability_build_tower_basic"						"Build Windranger tower"
+		"DOTA_Tooltip_Ability_build_tower_basic_Description"			"DMG: <font color=\"#ff0000\">Weak</font><br>AttackSpeed: <font color=\"#00ff00\">Good</font><br>Range: 700<br>Ability: None"
+		"DOTA_Tooltip_Ability_build_tower_basic_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_basic_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_basic_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_windrunner"						"Upgrade Windranger tower"
+		"DOTA_Tooltip_Ability_upgrade_windrunner_Description"			"Adds the fervor ability, also increases damage."
+		"DOTA_Tooltip_Ability_upgrade_windrunner_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_windrunner_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_windrunner_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_templar"						"Build Templar tower"
+		"DOTA_Tooltip_Ability_build_tower_templar_Description"			"DMG: <font color=\"#ffff00\">Okay</font><br>AttackSpeed: <font color=\"#00ff00\">Good</font><br>Range: 700<br>Ability: Psi blades"
+		"DOTA_Tooltip_Ability_build_tower_templar_Note0"				"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_templar_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_templar_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_templar"							"Upgrade Templar tower"
+		"DOTA_Tooltip_Ability_upgrade_templar_Description"				"Adds the refraction ability, also increases damage."
+		"DOTA_Tooltip_Ability_upgrade_templar_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_templar_Lore"						"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_templar_goldcost"					"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_spirit_breaker"				"Build Spirit Breaker tower"
+		"DOTA_Tooltip_Ability_build_tower_spirit_breaker_Description"	"DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 500<br>Ability: Greater Bash"
+		"DOTA_Tooltip_Ability_build_tower_spirit_breaker_Note0"			"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_spirit_breaker_Lore"			"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_spirit_breaker_goldcost"		"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_spirit_breaker"					"Upgrade Spirit Breaker tower"
+		"DOTA_Tooltip_Ability_upgrade_spirit_breaker_Description"		"Adds the Amplify Damage ability(-5 armor), also increases damage."
+		"DOTA_Tooltip_Ability_upgrade_spirit_breaker_Note0"				"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_spirit_breaker_Lore"				"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_spirit_breaker_goldcost"			"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_phantom_assassin"				"Build Phantom Assassin tower"
+		"DOTA_Tooltip_Ability_build_tower_phantom_assassin_Description"	"DMG: <font color=\"#00ff00\">Random</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 500<br>Ability: Coup de grace"
+		"DOTA_Tooltip_Ability_build_tower_phantom_assassin_Note0"		"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_phantom_assassin_Lore"		"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_phantom_assassin_goldcost"	"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_phantom_assassin"					"Upgrade Phantom Assassin tower"
+		"DOTA_Tooltip_Ability_upgrade_phantom_assassin_Description"		"Leveles up Coup de grace ability to level 3, also increases damage."
+		"DOTA_Tooltip_Ability_upgrade_phantom_assassin_Note0"			"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_phantom_assassin_Lore"			"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_phantom_assassin_goldcost"		"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_venomancer"					"Build Venomancer tower"
+		"DOTA_Tooltip_Ability_build_tower_venomancer_Description"		"DMG: <font color=\"#ffff00\">Okay</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 800<br>Ability: Poison Sting"
+		"DOTA_Tooltip_Ability_build_tower_venomancer_Note0"				"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_venomancer_Lore"				"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_venomancer_goldcost"			"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_venomancer"						"Upgrade Venomancer tower"
+		"DOTA_Tooltip_Ability_upgrade_venomancer_Description"			"Increases slow by 20%, also more damage"
+		"DOTA_Tooltip_Ability_upgrade_venomancer_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_venomancer_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_venomancer_goldcost"				"Gold cost:"
+		
+		//PAGE 2
+		
+		"DOTA_Tooltip_Ability_build_tower_shadow_fiend"					"Build Shadow Fiend tower"
+		"DOTA_Tooltip_Ability_build_tower_shadow_fiend_Description"		"DMG: <font color=\"#00ff00\">Bad -> Good</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 900<br>Ability: Nevermore Necromastery"
+		"DOTA_Tooltip_Ability_build_tower_shadow_fiend_Note0"			"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_shadow_fiend_Lore"			"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_shadow_fiend_goldcost"		"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_shadow_fiend"						"Upgrade Shadow Fiend tower"
+		"DOTA_Tooltip_Ability_upgrade_shadow_fiend_Description"			"Increases the maximum amount of souls to 85"
+		"DOTA_Tooltip_Ability_upgrade_shadow_fiend_Note0"				"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_shadow_fiend_Lore"				"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_shadow_fiend_goldcost"			"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_weaver"						"Build Weaver tower"
+		"DOTA_Tooltip_Ability_build_tower_weaver_Description"			"DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#00ff00\">Good</font><br>Range: 800<br>Ability: Geminate Attack"
+		"DOTA_Tooltip_Ability_build_tower_weaver_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_weaver_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_weaver_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_weaver"							"Upgrade Weaver tower"
+		"DOTA_Tooltip_Ability_upgrade_weaver_Description"				"Adds 600 damage."
+		"DOTA_Tooltip_Ability_upgrade_weaver_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_weaver_Lore"						"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_weaver_goldcost"					"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_techies"						"Build Techies tower"
+		"DOTA_Tooltip_Ability_build_tower_techies_Description"			"DMG: <font color=\"#ff0000\">Bad</font><br>AttackSpeed: <font color=\"#ff0000\">Bad</font><br>Range: 800<br>Ability: Land Mine"
+		"DOTA_Tooltip_Ability_build_tower_techies_Note0"				"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_techies_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_techies_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_techies"							"Upgrade Techies tower"
+		"DOTA_Tooltip_Ability_upgrade_techies_Description"				"Adds 1000 damage to the land mine."
+		"DOTA_Tooltip_Ability_upgrade_techies_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_techies_Lore"						"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_techies_goldcost"					"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_witch_doctor"					"Build Witch Doctor tower"
+		"DOTA_Tooltip_Ability_build_tower_witch_doctor_Description"		"DMG: <font color=\"#ff0000\">Bad</font><br>AttackSpeed: <font color=\"#00ff00\">Okay</font><br>Range: 600<br>Ability: Paralyzing Cask"
+		"DOTA_Tooltip_Ability_build_tower_witch_doctor_Note0"			"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_witch_doctor_Lore"			"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_witch_doctor_goldcost"		"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_witch_doctor"						"Upgrade Witch Doctor tower"
+		"DOTA_Tooltip_Ability_upgrade_witch_doctor_Description"			"Adds the maledict ability."
+		"DOTA_Tooltip_Ability_upgrade_witch_doctor_Note0"				"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_witch_doctor_Lore"				"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_witch_doctor_goldcost"			"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_sven"							"Build Sven tower"
+		"DOTA_Tooltip_Ability_build_tower_sven_Description"				"DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#00ff00\">Okay</font><br>Range: 500<br>Ability: Great Cleave"
+		"DOTA_Tooltip_Ability_build_tower_sven_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_sven_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_sven_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_sven"								"Upgrade Sven tower"
+		"DOTA_Tooltip_Ability_upgrade_sven_Description"					"Adds the Chaos Strike crit ability."
+		"DOTA_Tooltip_Ability_upgrade_sven_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_sven_Lore"						"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_sven_goldcost"					"Gold cost:"
+		
+		//PAGE 3
+		"DOTA_Tooltip_Ability_build_tower_gyro"							"Build Gyrocoopter tower"
+		"DOTA_Tooltip_Ability_build_tower_gyro_Description"				"DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#ff0000\">Bad</font><br>Range: 800<br>Ability: Flak Cannon"
+		"DOTA_Tooltip_Ability_build_tower_gyro_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_gyro_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_gyro_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_gyro"								"Upgrade Gyro tower"
+		"DOTA_Tooltip_Ability_upgrade_gyro_Description"					"Upgrades the Flak cannon ability to lvl 4, also adds 500 damage."
+		"DOTA_Tooltip_Ability_upgrade_gyro_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_gyro_Lore"						"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_gyro_goldcost"					"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_ursa"							"Build Ursa tower"
+		"DOTA_Tooltip_Ability_build_tower_ursa_Description"				"DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#00ff00\">Great</font><br>Range: 500<br>Ability: Fury swipes"
+		"DOTA_Tooltip_Ability_build_tower_ursa_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_ursa_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_ursa_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_ursa"								"Upgrade Ursa tower"
+		"DOTA_Tooltip_Ability_upgrade_ursa_Description"					"Adds the overpower ability."
+		"DOTA_Tooltip_Ability_upgrade_ursa_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_ursa_Lore"						"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_ursa_goldcost"					"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_crystal_maiden"				"Build Crystal Maiden tower"
+		"DOTA_Tooltip_Ability_build_tower_crystal_maiden_Description"	"DMG: <font color=\"#ff0000\">Bad</font><br>AttackSpeed: <font color=\"#ff0000\">Bad</font><br>Range: 700<br>Ability: Crystal Nova"
+		"DOTA_Tooltip_Ability_build_tower_crystal_maiden_Note0"			"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_crystal_maiden_Lore"			"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_crystal_maiden_goldcost"		"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_crystal_maiden"					"Upgrade Crystal Maiden tower"
+		"DOTA_Tooltip_Ability_upgrade_crystal_maiden_Description"		"Adds the degen aura ability."
+		"DOTA_Tooltip_Ability_upgrade_crystal_maiden_Note0"				"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_crystal_maiden_Lore"				"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_crystal_maiden_goldcost"			"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_sniper"						"Build Sniper tower"
+		"DOTA_Tooltip_Ability_build_tower_sniper_Description"			"DMG: <font color=\"#00ff00\">Great</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 1700<br>Ability: None"
+		"DOTA_Tooltip_Ability_build_tower_sniper_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_sniper_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_sniper_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_sniper"							"Upgrade Sniper tower"
+		"DOTA_Tooltip_Ability_upgrade_sniper_Description"				"Adds impetus ammo ability."
+		"DOTA_Tooltip_Ability_upgrade_sniper_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_sniper_Lore"						"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_sniper_goldcost"					"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_luna"							"Build Luna tower"
+		"DOTA_Tooltip_Ability_build_tower_luna_Description"				"DMG: <font color=\"#00ff00\">Good</font><br>AttackSpeed: <font color=\"#ffff00\">Okay</font><br>Range: 600<br>Ability: Moon glaives"
+		"DOTA_Tooltip_Ability_build_tower_luna_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_luna_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_luna_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_luna"								"Upgrade Luna tower"
+		"DOTA_Tooltip_Ability_upgrade_luna_Description"					"Upgrades the Moon glaives ability to lvl 4, also adds 1000 damage."
+		"DOTA_Tooltip_Ability_upgrade_luna_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_luna_Lore"						"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_luna_goldcost"					"Gold cost:"
+		
+		//PAGE 4
+		"DOTA_Tooltip_Ability_build_tower_dragon_knight"				"Build Dragon Knight tower"
+		"DOTA_Tooltip_Ability_build_tower_dragon_knight_Description"	"DMG: <font color=\"#00ff00\">Great</font><br>AttackSpeed: <font color=\"#00ff00\">Okay</font><br>Range: 700<br>Ability: Elder Dragon Form"
+		"DOTA_Tooltip_Ability_build_tower_dragon_knight_Note0"			"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_dragon_knight_Lore"			"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_dragon_knight_goldcost"		"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_dragon_knight"					"Upgrade Dragon Knight tower"
+		"DOTA_Tooltip_Ability_upgrade_dragon_knight_Description"		"Upgrades the Elder Dragon Form ability to lvl 3, also adds 1000 damage."
+		"DOTA_Tooltip_Ability_upgrade_dragon_knight_Note0"				"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_dragon_knight_Lore"				"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_dragon_knight_goldcost"			"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_build_tower_zeus"							"Build Zeus tower"
+		"DOTA_Tooltip_Ability_build_tower_zeus_Description"				"Ability: Arc lightning<br>Ability: Static Field"
+		"DOTA_Tooltip_Ability_build_tower_zeus_Note0"					"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_build_tower_zeus_Lore"					"AERTZ"
+		"DOTA_Tooltip_Ability_build_tower_zeus_goldcost"				"Gold cost:"
+		
+		"DOTA_Tooltip_Ability_upgrade_zeus"								"Upgrade Zeus tower"
+		"DOTA_Tooltip_Ability_upgrade_zeus_Description"					"Adds the lightning bolt ability."
+		"DOTA_Tooltip_Ability_upgrade_zeus_Note0"						"This shows when hovering with Alt pressed"
+		"DOTA_Tooltip_Ability_upgrade_zeus_Lore"						"AERTZ"
+		"DOTA_Tooltip_Ability_upgrade_zeus_goldcost"					"Gold cost:"
+		
+		
 	}
 }
