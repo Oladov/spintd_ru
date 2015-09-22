@@ -24,6 +24,7 @@
 	"settings_host_diff"				"Host pick a difficulty"
 	
 	//NOTE: leading and trailing spaces are required otherwise the normal text gets replaced for some reason :/
+	"settings_diff_easy"				" EASY "
 	"settings_diff_normal"				" NORMAL "
 	"settings_diff_hard"				" HARD "
 	

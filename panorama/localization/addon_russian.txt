@@ -24,6 +24,7 @@
 	"settings_host_diff"				"Хост выбирает сложность"
 	
 	//NOTE: leading and trailing spaces are required otherwise the normal text gets replaced for some reason :/
+	"settings_diff_easy"				" Низкая "
 	"settings_diff_normal"				" Обычная "
 	"settings_diff_hard"				" Высокая "
 	
