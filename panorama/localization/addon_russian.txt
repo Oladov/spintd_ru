@@ -49,6 +49,8 @@
 	
 	//boss messages section
 	
+	"boss_loot"							"Трофей босса"
+	
 	"boss_fish_hex"						"Плотва"
 	"boss_spamm_messer"					"Я ударю в самое слабое место!"
 	"boss_pudge"						"Свежее мясо"
