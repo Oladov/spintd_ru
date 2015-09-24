@@ -58,6 +58,7 @@
 	"boss_lycan"						"A huff and a puff"
 	"boss_abaddon"					"Don't pick up cursed swords kids."
 	"boss_faceless_void"		"STOP HAMMERTIME"
+	"boss_tony"							"Not even paper can save you."
 
 	//slot machine section
 
