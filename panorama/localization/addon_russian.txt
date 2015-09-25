@@ -58,6 +58,7 @@
 	"boss_lycan"						"Волк среди нас"
 	"boss_abaddon"						"Дети, не играйте с проклятыми мечами."
 	"boss_faceless_void"				"ВРЕМЯ МОЛОТА"
+	"boss_tony"							"Даже бумага вас не спасёт."	
 	
 	//slot machine section
 	
