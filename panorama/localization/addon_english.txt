@@ -56,6 +56,7 @@
 	"boss_pudge"						"Fresh meat"
 	"boss_high_priest"			"You don't need attackspeed"
 	"boss_lycan"						"A huff and a puff"
+	"boss_nyx"							"NYX NYX NYX"
 	"boss_abaddon"					"Don't pick up cursed swords kids."
 	"boss_faceless_void"		"STOP HAMMERTIME"
 	"boss_tony"							"Not even paper can save you."
@@ -65,6 +66,7 @@
 	"slot_mult_symbol"		"X"
 	"no_luck"							"NO LUCK"
 	"spins"								"spins!"
+	"gold"								"GOLD"
 
 	"slot_frog_msg"							"POCKET CHANGE"
 	"slot_lockjaw_msg"					"PAYOUT"
